@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>hibernate</groupId>
     <artifactId>mavenproject1</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -14,7 +14,8 @@
         <connection>scm:git:git@github.com:tobrien/git-demo.git</connection>
         <url>scm:git:git@github.com:tobrien/git-demo.git</url>
         <developerConnection>scm:git:git@github.com:tobrien/git-demo.git</developerConnection>
-    </scm>
+      <tag>1.0</tag>
+  </scm>
     <build>
         <plugins>
             <plugin>
