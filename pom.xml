@@ -10,7 +10,11 @@
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
-    
+    <scm>
+        <connection>scm:git:git@github.com:tobrien/git-demo.git</connection>
+        <url>scm:git:git@github.com:tobrien/git-demo.git</url>
+        <developerConnection>scm:git:git@github.com:tobrien/git-demo.git</developerConnection>
+    </scm>
     <build>
         <plugins>
             <plugin>
