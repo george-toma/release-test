@@ -11,10 +11,9 @@
         <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
     <scm>
-        <connection>scm:git:git@github.com:tobrien/git-demo.git</connection>
-        <url>scm:git:git@github.com:tobrien/git-demo.git</url>
-        <developerConnection>scm:git:git@github.com:tobrien/git-demo.git</developerConnection>
-      <tag>1.0</tag>
+        <connection>scm:git:https://github.com/george-toma/release-test.git</connection>
+        <url>scm:git:https://github.com/george-toma/release-test.git</url>
+        <developerConnection>scm:git:https://github.com/george-toma/release-test.git</developerConnection>
   </scm>
     <build>
         <plugins>
